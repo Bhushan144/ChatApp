@@ -238,7 +238,7 @@ const styles = {
     borderBottomRightRadius: '4px'
   },
   messageInfo: {
-    fontSize: '11px', color: '#555', display: 'flex', justifyContent: 'space-between', marginTop: '5px',display:'flex' , gap:'30px'
+    fontSize: '11px', color: '#555', display: 'flex', justifyContent: 'space-between', marginTop: '5px', gap:'30px'
   },
   inputArea: {
     padding: '15px 20px', borderTop: '1px solid #eee', display: 'flex', gap: '10px', backgroundColor: '#fff'
